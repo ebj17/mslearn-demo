@@ -1,0 +1,42 @@
+/Users/einar/GettingStarted/bin/Debug/net8.0/GettingStarted
+/Users/einar/GettingStarted/bin/Debug/net8.0/GettingStarted.deps.json
+/Users/einar/GettingStarted/bin/Debug/net8.0/GettingStarted.runtimeconfig.json
+/Users/einar/GettingStarted/bin/Debug/net8.0/GettingStarted.dll
+/Users/einar/GettingStarted/bin/Debug/net8.0/GettingStarted.pdb
+/Users/einar/GettingStarted/obj/Debug/net8.0/GettingStarted.GeneratedMSBuildEditorConfig.editorconfig
+/Users/einar/GettingStarted/obj/Debug/net8.0/GettingStarted.AssemblyInfoInputs.cache
+/Users/einar/GettingStarted/obj/Debug/net8.0/GettingStarted.AssemblyInfo.cs
+/Users/einar/GettingStarted/obj/Debug/net8.0/GettingStarted.csproj.CoreCompileInputs.cache
+/Users/einar/GettingStarted/obj/Debug/net8.0/GettingStarted.dll
+/Users/einar/GettingStarted/obj/Debug/net8.0/refint/GettingStarted.dll
+/Users/einar/GettingStarted/obj/Debug/net8.0/GettingStarted.pdb
+/Users/einar/GettingStarted/obj/Debug/net8.0/GettingStarted.genruntimeconfig.cache
+/Users/einar/GettingStarted/obj/Debug/net8.0/ref/GettingStarted.dll
+/Users/einar/Desktop/GettingStarted/bin/Debug/net8.0/GettingStarted
+/Users/einar/Desktop/GettingStarted/bin/Debug/net8.0/GettingStarted.deps.json
+/Users/einar/Desktop/GettingStarted/bin/Debug/net8.0/GettingStarted.runtimeconfig.json
+/Users/einar/Desktop/GettingStarted/bin/Debug/net8.0/GettingStarted.dll
+/Users/einar/Desktop/GettingStarted/bin/Debug/net8.0/GettingStarted.pdb
+/Users/einar/Desktop/GettingStarted/obj/Debug/net8.0/GettingStarted.GeneratedMSBuildEditorConfig.editorconfig
+/Users/einar/Desktop/GettingStarted/obj/Debug/net8.0/GettingStarted.AssemblyInfoInputs.cache
+/Users/einar/Desktop/GettingStarted/obj/Debug/net8.0/GettingStarted.AssemblyInfo.cs
+/Users/einar/Desktop/GettingStarted/obj/Debug/net8.0/GettingStarted.csproj.CoreCompileInputs.cache
+/Users/einar/Desktop/GettingStarted/obj/Debug/net8.0/GettingStarted.dll
+/Users/einar/Desktop/GettingStarted/obj/Debug/net8.0/refint/GettingStarted.dll
+/Users/einar/Desktop/GettingStarted/obj/Debug/net8.0/GettingStarted.pdb
+/Users/einar/Desktop/GettingStarted/obj/Debug/net8.0/GettingStarted.genruntimeconfig.cache
+/Users/einar/Desktop/GettingStarted/obj/Debug/net8.0/ref/GettingStarted.dll
+/Users/einar/Desktop/Advanced Pogramming/GettingStarted/bin/Debug/net8.0/GettingStarted
+/Users/einar/Desktop/Advanced Pogramming/GettingStarted/bin/Debug/net8.0/GettingStarted.deps.json
+/Users/einar/Desktop/Advanced Pogramming/GettingStarted/bin/Debug/net8.0/GettingStarted.runtimeconfig.json
+/Users/einar/Desktop/Advanced Pogramming/GettingStarted/bin/Debug/net8.0/GettingStarted.dll
+/Users/einar/Desktop/Advanced Pogramming/GettingStarted/bin/Debug/net8.0/GettingStarted.pdb
+/Users/einar/Desktop/Advanced Pogramming/GettingStarted/obj/Debug/net8.0/GettingStarted.GeneratedMSBuildEditorConfig.editorconfig
+/Users/einar/Desktop/Advanced Pogramming/GettingStarted/obj/Debug/net8.0/GettingStarted.AssemblyInfoInputs.cache
+/Users/einar/Desktop/Advanced Pogramming/GettingStarted/obj/Debug/net8.0/GettingStarted.AssemblyInfo.cs
+/Users/einar/Desktop/Advanced Pogramming/GettingStarted/obj/Debug/net8.0/GettingStarted.csproj.CoreCompileInputs.cache
+/Users/einar/Desktop/Advanced Pogramming/GettingStarted/obj/Debug/net8.0/GettingStarted.dll
+/Users/einar/Desktop/Advanced Pogramming/GettingStarted/obj/Debug/net8.0/refint/GettingStarted.dll
+/Users/einar/Desktop/Advanced Pogramming/GettingStarted/obj/Debug/net8.0/GettingStarted.pdb
+/Users/einar/Desktop/Advanced Pogramming/GettingStarted/obj/Debug/net8.0/GettingStarted.genruntimeconfig.cache
+/Users/einar/Desktop/Advanced Pogramming/GettingStarted/obj/Debug/net8.0/ref/GettingStarted.dll
